@@ -1,0 +1,218 @@
+#nav-bar {
+    margin: 0;
+    width: 90%;
+    padding-top: 20px;
+}
+
+.nav-links a {
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.ml-2 {
+    margin-left: 20px;
+}
+
+ul {
+    padding: 10px 10px;
+}
+
+.nav-container span {
+    color: #047aed;
+    width: auto;
+}
+
+.nav-links .button {
+    padding: 10px;
+}
+
+#hero {
+    height: 500px;
+}
+
+.hero-txt h2 {
+    line-height: 3rem;
+    font-size: 28px;
+    padding: 10px 0;
+}
+
+.hero-txt {
+    left: 10%;
+}
+
+.btn span {
+    padding: 5px 20px;
+    margin: 0 5px;
+}
+
+.hero-txt p {
+    padding: 10px 0;
+    line-height: 20px;
+    padding-bottom: 20px;
+}
+
+.hero-txt svg {
+    display: none;
+}
+
+.btn {
+    margin: 30px 0;
+}
+
+
+.vector-group {
+    display: none;
+}
+
+.irr2 {
+    bottom: -50px;
+    display: none;
+}
+
+#possibility {
+    padding: 0 2%;
+}
+
+#possibility h3 {
+    font-size: 28px;
+}
+
+.p-list {
+    width: 70%;
+    padding-left: 0px;
+}
+
+.p-list h4 {
+    font-size: 14px;
+}
+
+.p-list p {
+    font-size: 12px;
+}
+
+.list {
+    padding: 0 10px;
+}
+
+#why-choose {
+    padding: 20px 0;
+    margin-top: 30px;
+    margin-left: 10px;
+    justify-content: unset;
+}
+
+article {
+    margin-right: 10px;
+}
+
+.why-list svg {
+    width: 46px;
+    height: 46px;
+}
+
+.why-list h4 {
+    font-size: 18px;
+    padding: 10px 0;
+
+}
+
+.why-list p {
+    font-size: 10px;
+    line-height: 16px;
+}
+
+.why-container {
+    gap: 0;
+    width: 40%;
+    margin-left: 10px;
+}
+
+.why-list {
+    margin: 20px 0;
+    width: 130px;
+}
+
+#banner {
+    overflow: hidden;
+}
+
+.card {
+    width: 210px;
+    height: 260px;
+    padding: 15px 15px;
+    margin: 0 100px;
+
+}
+
+#pricing {
+    position: relative;
+}
+
+.price-box {
+    width: 100%;
+    margin: 30px auto;
+}
+
+.active-card {
+    position: absolute;
+    top: 130px;
+    left: 22%;
+    width: 215px;
+    height: 320px;
+    padding: 40px 20px;
+    z-index: 9;
+}
+
+.pricing-btn {
+    margin: 40px 20px;
+}
+
+.price-header {
+    margin-bottom: 60px;
+}
+
+.question {
+    font-size: 18px;
+}
+
+.footer-contain {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.s-logo {
+    margin: 20px 20px 0 20px;
+}
+
+.logo-area svg {
+    width: 100px;
+}
+
+.social-icon {
+    margin: 0 10px;
+    width: 30%;
+}
+
+.social-icon svg {
+    width: 30px;
+}
+
+.links {
+    margin: 0 auto;
+}
+
+.links .col {
+    width: 160px;
+    margin-left: 20px;
+}
+
+.footer-second {
+    width: 400px;
+    height: 200px;
+}
+
+.footer-first {
+    width: 300px;
+    height: 400px;
+}
